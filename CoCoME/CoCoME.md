@@ -6,9 +6,9 @@
 
 ### ![image-20250401211033525](https://github.com/MiaJ321/LAB01-CoCoME/blob/main/CoCoME/image/image-20250401211033525.png?raw=true)
 
-![image-20250401211606975](C:\Users\MiaJ\AppData\Roaming\Typora\typora-user-images\image-20250401211606975.png)
+![image-20250401211606975](https://github.com/MiaJ321/LAB01-CoCoME/blob/main/CoCoME/image/image-20250401211606975.png?raw=true)
 
-![image-20250401211731697](C:\Users\MiaJ\AppData\Roaming\Typora\typora-user-images\image-20250401211731697.png)
+![image-20250401211731697](https://github.com/MiaJ321/LAB01-CoCoME/blob/main/CoCoME/image/image-20250401211731697.png?raw=true)
 
 ## 任务二：UML需求建模
 
@@ -16,33 +16,33 @@
 
 ​	**新增用户角色2个**：顾客和供应商。**新增用例9个**，分别是：管理员的analyzeSalesData、manageSurveillance、manageReturn；顾客的browseProducts、addProductsToCart、returnProducts、checkOut；供应商的recommendNewProducts、acceptPurchaseOrder。并且acceptPurchaseOrder里面include两个用例。
 
-![image-20250401212117251](C:\Users\MiaJ\AppData\Roaming\Typora\typora-user-images\image-20250401212117251.png)
+![image-20250401212117251](https://github.com/MiaJ321/LAB01-CoCoME/blob/main/CoCoME/image/image-20250401212117251.png?raw=true)
 
 ### 2.系统顺序图
 
 ​	**系统顺序图新增4个**，分别是acceptPurchaseOrder、checkOut、manageReturn、returnProducts。除此之外，还修改了原有的ProcessSale顺序图。相应的，**新增系统操作总数19个**，**新增系统合约数17个**。
 
-![image-20250401212622151](C:\Users\MiaJ\AppData\Roaming\Typora\typora-user-images\image-20250401212622151.png)
+![image-20250401212622151](https://github.com/MiaJ321/LAB01-CoCoME/blob/main/CoCoME/image/image-20250401212622151.png?raw=true)
 
-![image-20250401212836172](C:\Users\MiaJ\AppData\Roaming\Typora\typora-user-images\image-20250401212836172.png)
+![image-20250401212836172](https://github.com/MiaJ321/LAB01-CoCoME/blob/main/CoCoME/image/image-20250401212836172.png?raw=true)
 
-![image-20250401212859750](C:\Users\MiaJ\AppData\Roaming\Typora\typora-user-images\image-20250401212859750.png)
+![image-20250401212859750](https://github.com/MiaJ321/LAB01-CoCoME/blob/main/CoCoME/image/image-20250401212859750.png?raw=true)
 
-![image-20250401212951731](C:\Users\MiaJ\AppData\Roaming\Typora\typora-user-images\image-20250401212951731.png)
+![image-20250401212951731](https://github.com/MiaJ321/LAB01-CoCoME/blob/main/CoCoME/image/image-20250401212951731.png?raw=true)
 
-![image-20250401213115255](C:\Users\MiaJ\AppData\Roaming\Typora\typora-user-images\image-20250401213115255.png)
+![image-20250401213115255](https://github.com/MiaJ321/LAB01-CoCoME/blob/main/CoCoME/image/image-20250401213115255.png?raw=true)
 
 ### 3.概念类图
 
 ​	**新增类9个**，分别是ReturnRequest、SurveillanceDevice、SalesDataAnalysisResult、Customer、Alipayment、WechatPayment、Administrator、RecommendedProduct、PurchaseOrder。除此之外，还修改了若干类。
 
-![image-20250401213704602](C:\Users\MiaJ\AppData\Roaming\Typora\typora-user-images\image-20250401213704602.png)
+![image-20250401213704602](https://github.com/MiaJ321/LAB01-CoCoME/blob/main/CoCoME/image/image-20250401213704602.png?raw=true)
 
 ## 任务三：UML需求原型化与需求确认
 
 ​	原型化结果如下：
 
-![image-20250331183600711](C:\Users\MiaJ\AppData\Roaming\Typora\typora-user-images\image-20250331183600711.png)
+![image-20250331183600711](https://github.com/MiaJ321/LAB01-CoCoME/blob/main/CoCoME/image/image-20250331183600711.png?raw=true)
 
 # **实验二：**RM2PT自动化架构设计和详细设计
 
@@ -50,29 +50,23 @@
 
 ​	以下图片是生成过程中的所有图片，均为调整后的。
 
-![image-20250405122628233](C:\Users\MiaJ\AppData\Roaming\Typora\typora-user-images\image-20250405122628233.png)
+![image-20250405122628233](https://github.com/MiaJ321/LAB01-CoCoME/blob/main/CoCoME/image/image-20250405122628233.png?raw=true)
 
 
 
-![image-20250405134817315](C:\Users\MiaJ\AppData\Roaming\Typora\typora-user-images\image-20250405134817315.png)
+![image-20250405134817315](https://github.com/MiaJ321/LAB01-CoCoME/blob/main/CoCoME/image/image-20250405134817315.png?raw=true)
 
-![image-20250405134907931](C:\Users\MiaJ\AppData\Roaming\Typora\typora-user-images\image-20250405134907931.png)
+![image-20250405134907931](https://github.com/MiaJ321/LAB01-CoCoME/blob/main/CoCoME/image/image-20250405134907931.png?raw=true)
 
+![image-20250405140551959](https://github.com/MiaJ321/LAB01-CoCoME/blob/main/CoCoME/image/image-20250405140551959.png?raw=true)
 
+![image-20250405141400748](https://github.com/MiaJ321/LAB01-CoCoME/blob/main/CoCoME/image/image-20250405141400748.png?raw=true)
 
-![image-20250405140551959](C:\Users\MiaJ\AppData\Roaming\Typora\typora-user-images\image-20250405140551959.png)
+![image-20250405141424494](https://github.com/MiaJ321/LAB01-CoCoME/blob/main/CoCoME/image/image-20250405141424494.png?raw=true)
 
-![image-20250405141400748](C:\Users\MiaJ\AppData\Roaming\Typora\typora-user-images\image-20250405141400748.png)
+![image-20250405141513674](https://github.com/MiaJ321/LAB01-CoCoME/blob/main/CoCoME/image/image-20250405141513674.png?raw=true)
 
-![image-20250405141424494](C:\Users\MiaJ\AppData\Roaming\Typora\typora-user-images\image-20250405141424494.png)
-
-![image-20250405141513674](C:\Users\MiaJ\AppData\Roaming\Typora\typora-user-images\image-20250405141513674.png)
-
-
-
-
-
-![image-20250405141445327](C:\Users\MiaJ\AppData\Roaming\Typora\typora-user-images\image-20250405141445327.png)
+![image-20250405141445327](https://github.com/MiaJ321/LAB01-CoCoME/blob/main/CoCoME/image/image-20250405141445327.png?raw=true)
 
 
 
@@ -80,17 +74,11 @@
 
 ​	下图是面向对象的详细设计：
 
-![image-20250405164848349](C:\Users\MiaJ\AppData\Roaming\Typora\typora-user-images\image-20250405164848349.png)
+![image-20250405164848349](https://github.com/MiaJ321/LAB01-CoCoME/blob/main/CoCoME/image/image-20250405164848349.png?raw=true)
 
+![image-20250405164509191](https://github.com/MiaJ321/LAB01-CoCoME/blob/main/CoCoME/image/image-20250405164509191.png?raw=true)
 
-
-
-
-![image-20250405164509191](C:\Users\MiaJ\AppData\Roaming\Typora\typora-user-images\image-20250405164509191.png)
-
-
-
-![image-20250405165000250](C:\Users\MiaJ\AppData\Roaming\Typora\typora-user-images\image-20250405165000250.png)
+![image-20250405165000250](https://github.com/MiaJ321/LAB01-CoCoME/blob/main/CoCoME/image/image-20250405165000250.png?raw=true)
 
 ## **任务3：大模型生成设计模型与微服务拆分**
 
@@ -109,21 +97,21 @@
 
 ​	**核心业务类层**：
 
-![image-20250428165735846](C:\Users\MiaJ\AppData\Roaming\Typora\typora-user-images\image-20250428165735846.png)
+![image-20250428165735846](https://github.com/MiaJ321/LAB01-CoCoME/blob/main/CoCoME/image/image-20250428165735846.png?raw=true)
 
-![image-20250428165754716](C:\Users\MiaJ\AppData\Roaming\Typora\typora-user-images\image-20250428165754716.png)
+![image-20250428165754716](https://github.com/MiaJ321/LAB01-CoCoME/blob/main/CoCoME/image/image-20250428165754716.png?raw=true)
 
 ​		**支付系统类层**：
 
-![image-20250428165911352](C:\Users\MiaJ\AppData\Roaming\Typora\typora-user-images\image-20250428165911352.png)
+![image-20250428165911352](https://github.com/MiaJ321/LAB01-CoCoME/blob/main/CoCoME/image/image-20250428165911352.png?raw=true)
 
 ​	**管理系统类层**：
 
-![image-20250428170139331](C:\Users\MiaJ\AppData\Roaming\Typora\typora-user-images\image-20250428170139331.png)
+![image-20250428170139331](https://github.com/MiaJ321/LAB01-CoCoME/blob/main/CoCoME/image/image-20250428170139331.png?raw=true)
 
 ​	**用户交互类层**：
 
-![image-20250428170216153](C:\Users\MiaJ\AppData\Roaming\Typora\typora-user-images\image-20250428170216153.png)
+![image-20250428170216153](https://github.com/MiaJ321/LAB01-CoCoME/blob/main/CoCoME/image/image-20250428170216153.png?raw=true)
 
 ### **2、微服务架构**
 
@@ -240,4 +228,4 @@ POST /surveillance/alerts
 
 核心交互场景：
 
-![image-20250428172108522](C:\Users\MiaJ\AppData\Roaming\Typora\typora-user-images\image-20250428172108522.png)
+![image-20250428172108522](https://github.com/MiaJ321/LAB01-CoCoME/blob/main/CoCoME/image/image-20250428172108522.png?raw=true)
