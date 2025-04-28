@@ -4,7 +4,7 @@
 
 ​	在本任务中，描述了作为客户的四种需求：浏览商品、添加商品、结账和退货；管理员的三种需求：管理退货、管理监控状态、分析销售数据；以及供应商的两种需求：接受采购订单和推荐新商品。满足**新增用户需求数量8条、系统需求数量15条**。
 
-### ![image-20250401211033525](C:\Users\MiaJ\AppData\Roaming\Typora\typora-user-images\image-20250401211033525.png)
+### ![image-20250401211033525](https://github.com/MiaJ321/LAB01-CoCoME/blob/main/CoCoME/image/image-20250401211033525.png?raw=true)
 
 ![image-20250401211606975](C:\Users\MiaJ\AppData\Roaming\Typora\typora-user-images\image-20250401211606975.png)
 
